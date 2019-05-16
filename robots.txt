@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://tahpahhii.space2vec.com/sitemap.xml
